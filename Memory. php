@@ -1,0 +1,16 @@
+<?php
+//AMUTUHEIRE MEMORY 2023/A/BIT/1927/F
+$Myname="Amutuheire Memory";
+
+$DOB = "28/09/2003";
+$Adress = "Butobere, kabale";
+$Current = "2024";
+$Previous = "2003";
+$Age = $Current - $Previous;
+echo "Name: ". $Myname. "\n";
+echo "Date of Birth: ". $DOB. "\n";
+echo "Home Address: ". $Adress. "\n";
+echo "You Are Now ". $Age. " years old.\n";
+?>
+
+
